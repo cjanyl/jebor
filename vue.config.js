@@ -24,7 +24,7 @@ module.exports = {
         /* 设置为0.0.0.0则所有的地址均能访问 */
         host: '0.0.0.0',
         port: 8066,
-        https: false,
+        https: true,
         hotOnly: false,
         /* 使用代理 */
         proxy: {
